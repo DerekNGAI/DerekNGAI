@@ -1,1 +1,1 @@
-Hi, I am Derek! Just a small potato. 
+Hi, I am Derek! A front-end Developer!
