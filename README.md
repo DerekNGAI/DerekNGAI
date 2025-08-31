@@ -1,1 +1,1 @@
-Hi, I am Derek! A front-end Developer!
+Hi, I am Derek! I craft things that are fun!
